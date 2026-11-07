@@ -8,7 +8,7 @@
   
 ## How to Activate Windows / Office / Extended Security Updates (ESU)?
 
-### Method 1 - PowerShell ❤️
+### Method 1 - PowerShell 💀
 
 1. Click the **Start Menu**, type `PowerShell`, and open it.
 
@@ -27,7 +27,7 @@
 
 ---
 
-### Method 2 - Traditional (Windows Vista and later)
+### Method 2 - Traditional (Windows Vista and later)💀
 
 1.   Download the script:
       *   [**MAS_AIO.cmd**](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&download=true) (Direct script)
@@ -37,7 +37,7 @@
 
 ---
 
-> [!TIP]
+> [!TIP]💀
 > - Some ISPs/DNS providers block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) in your browser. 
 > - **Having trouble**? Visit our [troubleshooting page](https://massgrave.dev/troubleshoot) or raise an issue on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues).
 
